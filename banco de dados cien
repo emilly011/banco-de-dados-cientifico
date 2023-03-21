@@ -1,0 +1,16 @@
+create a table
+CREATE TABLE cientifico (
+  ano INT PRIMARY KEY,
+ eventos VARCHAR(30) NOT NULL,
+ localidade VARCHAR(1) NOT NULL
+ descricao VARCHER (255) NOT NULL, 
+);
+-- insert some values
+INSERT INTO cientfico VALUES  (2017, 'primeira fotografia de um buraco', 'Galaxia' 'buraco negro',);
+INSERT INTO cientifico VALUES (2004, 'violento terremoto', 'Indonesia', 'ondas de 30 metros',);
+INSERT INTO cientifico VALUES (2019, 'tratamento ebola', 'Africa', 'surto com letalidade',);
+INSERT INTO cinetifico VALUES ()
+INSERT INTO cientifico VALUES
+INSERT INTO cientifico values
+-- fetch some values
+SELECT * FROM students WHERE gender = 'F';
